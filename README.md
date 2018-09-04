@@ -1,10 +1,10 @@
 # Markdown Parser
-This markdown parser will take in a markdown file and convert it to both correctly formatted HTML and Latex files.
+This Markdown parser will take in a Markdown file and convert it to both correctly formatted HTML and Latex files.
 
 ## Please note that this program has to be run through the command line as it requires a file as a argument.
 
 # To run the program
-1. First either download the projet and extract the zip, or `https://github.com/Arcanine-X/MarkdownParser`
+1. First either download the project and extract the zip, or `https://github.com/Arcanine-X/MarkdownParser`
 2. Go to the top level directory (MarkdownParser)
 3. To run the acceptance tests you first need to change the permissions
   - To change the permissions do `chmod +x run.sh`
@@ -26,7 +26,7 @@ There are six acceptance tests that will be run and will be outputted to the app
 
 These outputs will automatically be compared with the expected results which can be found in TestFiles/AcceptanceTests
 
-The script will use `diff -s` between the output and expected files and will display if the files are identicle or not.
+The script will use `diff -s` between the output and expected files and will display if the files are identical or not.
 
 To run the program normally and pass in a text file which you want converted you can just do:
 `java -jar parser.jar "filename.txt"` where filename is your file which should be located in the top level directory.
