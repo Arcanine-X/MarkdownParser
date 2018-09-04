@@ -1,0 +1,7 @@
+<h1>A simple h1 header</h1>
+<h2>A simple h2 header</h2>
+<h1>A header with <em>italics</em></h1>
+<h1>A header with <strong>bold</strong></h1>
+<h2>A header with <em>italics</em> and <strong>bold</strong></h2>
+<h1>A header with a # hash</h1>
+<p>#Not a header</p>

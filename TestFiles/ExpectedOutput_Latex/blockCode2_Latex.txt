@@ -1,0 +1,9 @@
+\begin{lstlisting}
+This is a test
+\end{lstlisting}
+a block \par
+\begin{lstlisting}
+code test
+\end{lstlisting}
+with multiple block codes \par
+\section{and a random header}

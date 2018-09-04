@@ -1,0 +1,16 @@
+*A simple italics*
+
+A *multi
+line* italics
+
+Multiple *italics* in one *sentence* over
+*a
+few lines*
+
+A *asterix that belongs
+
+A *asterix that *belongs* again
+
+This is *a sentence* with *lots *of *asterix to* make lots* of* italics
+
+

@@ -1,0 +1,32 @@
+**This *is **the *third **acceptance
+test** because* you** need* six** acceptance tests atleast
+`for a good project.` 
+
+---
+
+I will try to demonstrate everything again
+1. Such as italics
+2. and bolds
+3. and everything else
+such as multiline things
+# Where lists become headers
+
+```
+Block code is pretty interesting
+A block code shouldn't have *italics* or **bolds**
+so I guess my program is functioning correctly
+```
+
+I will do more `inline` `code to demonstrate that it
+works as intended
+over multiple` 
+
+* This is a different list
+* Because it has bullet points
+* And not numbers 2. this is a trick
+which my program didn't fall for and so 
+is # this
+
+> A block quote
+over multiple lines
+# Where it stops being a quote when it sees a header 

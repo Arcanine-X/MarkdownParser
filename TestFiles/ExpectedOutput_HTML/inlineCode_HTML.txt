@@ -1,0 +1,2 @@
+<p><code>Some simple inline code</code></p>
+<p>A sentence <code>with</code> multiple inline <code>code</code></p>

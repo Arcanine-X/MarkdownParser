@@ -1,0 +1,12 @@
+\begin{lstlisting}
+This is a block code test
+\end{lstlisting}
+\begin{lstlisting}
+This is a block code
+*test* with a **few**
+# tricks
+
+\end{lstlisting}
+This is a block code test
+with no ending
+back ticks \par

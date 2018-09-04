@@ -1,0 +1,32 @@
+\textbf{This \textit{is \textbf{the \textit{third \textbf{acceptance
+test} because} you} need} six} acceptance tests atleast
+\lstinline{for a good project.} \par
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+I will try to demonstrate everything again \par
+\begin{enumerate}
+\item Such as italics
+\item and bolds
+\item and everything else
+such as multiline things
+\end{enumerate}
+\section{Where lists become headers}
+\begin{lstlisting}
+Block code is pretty interesting
+A block code shouldn't have *italics* or **bolds**
+so I guess my program is functioning correctly
+\end{lstlisting}
+I will do more \lstinline{inline} \lstinline{code to demonstrate that it
+works as intended
+over multiple} \par
+\begin{itemize}
+\item This is a different list
+\item Because it has bullet points
+\item And not numbers 2. this is a trick
+which my program didn't fall for and so
+is # this
+\end{itemize}
+\begin{quote}
+A block quote
+over multiple lines \par
+\end{quote}
+\section{Where it stops being a quote when it sees a header}

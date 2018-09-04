@@ -1,0 +1,9 @@
+\textbf{A simple bold} \par
+A \textbf{multi
+line} bold \par
+Multiple \textbf{bold} in one \textbf{sentence} over
+\textbf{a
+few lines} \par
+A **asterix that belongs \par
+A **asterix that \textbf{belongs} again \par
+This is \textbf{a sentence} with \textbf{lots \textbf{of \textbf{asterix to} make lots} of} italics \par

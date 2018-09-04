@@ -1,0 +1,21 @@
+<h1>This is the fourth acceptance test</h1>
+<p>**I <em>really</em> am running <strong>out <strong>of things
+to</strong> test</strong> <em>because</em> I feel like I have tested it</p>
+<h2>Header doesnt become a paragraph which is good</h2>
+<p>Lets try test the same thing with other key words</p>
+<blockquote>
+<p>A block quoote</p>
+</blockquote>
+<p>Now we can try</p>
+<pre><code>Block code shouldnt become paragraph
+</code></pre>
+<p>And now some</p>
+<ol>
+<li>List shouldnt become a paragraph either</li>
+</ol>
+<p>And lastly</p>
+<ul>
+<li>Bullet points shouldnt become paragraphs</li>
+</ul>
+<p>This all works
+with my parser which I **am <strong>glad</strong></p>

@@ -1,0 +1,50 @@
+1. 20180317 0:900  Got basic classes ready and file reader working
+2. 20180317 10:00  Got basic single Headers working
+3. 20180317 11:00  Got basic Italics and paragraphs working with multiline
+4. 20180317 12:00  Restructured italics method and fixed bugs
+5. 20180317 13:00  Restructued italics method again and got bolds working
+6. 20180317 14:00  Got JUnit tests running
+7. 20180317 15:00  Fixed failing tests for h2 headers, and paragraphs
+8. 20180317 16:00  Added in blockqoutes and separators
+9. 20180317 17:00  Started working on number list
+10 20180318 09:00  Added in bullet points parser
+11 20180318 10:00  Added in inline code parser for simplest cases
+12 20180318 11:00  Added in more tests and refactored code and put comments in
+13 20180318 12:00  Set up latex parser and got simple latex headings and paragraphs working
+13 20180318 13:00  Created helper class to reuse code and refactored
+14 20180319 0:900  Refactored list parsers
+15 20180319 10:00  Added block code parser
+16 20180319 15:00  Added latex parser for lists, inline code, and separator
+17 20180321 08:00  Wrote alot more tests and started on latex tests
+18 20180321 14:00  Heavily refactored code
+19 20180321 15:00  Heavily refactored code
+20 20180321 16:00  Heavily refactored code
+21 20180321 20:00  More refactoring and fixing bugs
+22 20180321 21:00  Wrote more tests and started testing more edge cases
+23 20180321 22:00  Fixed up list parser bugs and writing more tests
+24 20180322 18:00  Refactoring list methods
+25 20180322 19:00  Refactoring and fixing tests
+26 20180322 20:00  Fixing tests
+27 20180323 09:00  Wrote latex tests
+28 20180323 10:00  Wrote latex tests
+29 20180323 11:00  Fixed tests folders
+30 20180323 16:00  Refactoring long if statements to use patterns
+31 20180323 17:00  Refactored and added a test log 	// https://www.tutorialspoint.com/junit/junit_executing_tests.htm
+32 30180324 09:00  Refactored to remove duplicate code
+33 30180324 10:00  Refactored to remove duplicate code
+34 30180324 12:00  Trying to figure out how to write makefile
+35 30180324 13:00  Trying to figure out how to write makefile
+36 30180324 14:00  Trying to figure out how to write makefile
+37 30180324 15:00  Trying to figure out how to write makefile - couldn't figure it out, not junit core apparantley. Going to put jar into gitlab instead
+37 30180324 16:00  Put in file writers for acceptance test and main function
+38 30180325 09:00  Wrote another acceptance test
+39 30180325 10:00  Wrote latex output - takes alot longer typing it out
+40 30180325 11:00  More refactoring
+41 30180325 12:00  Spent more time on trying to do makefile but ended up just putting a jar in project
+45 30180325 1300-1800 Refactoring, fixing bash script, adding comments and making code prettier
+
+Total hours 45 hours-ish.
+
+The makefile really wasted alot of time for me. I kept getting errors to do with not being able to find a junit core. So just resulted in putting
+a .jar file into gitlab which I think is the easiest way around it.
+

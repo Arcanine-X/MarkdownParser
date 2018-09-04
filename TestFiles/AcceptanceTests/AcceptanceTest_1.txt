@@ -1,0 +1,42 @@
+# This is a simple header
+
+# This is a header with *italics* and **bolds**
+
+## This is a h2 header with *italics* and **bolds**
+
+This is a normal paragraph
+
+This is a paragraph
+that goes over
+multiple lines.
+
+1. This is a list
+2. With multiple items
+3. that can actually
+go over multiple lines
+4. but there is
+
+* also a bullet point list
+* which can also have items
+* as you can see
+which can also
+go over multiple lines which is pretty fantastic
+# This is just a random header to demonstrate it breaks out of the list
+
+> Block quotes are pretty cool took
+
+---
+
+That was a separator
+
+There is also `inline code` which is also very cool
+
+```
+This is a block *code* with few tricky
+# tests
+```
+
+The output of this **acceptance test** will be *compared* to the
+common mark dingus output. I hope this matches **because **if it does **that
+means** my *output* was** all** correct, I just did some nested bolds and italics
+to demonstrate that also works. Have a good day.

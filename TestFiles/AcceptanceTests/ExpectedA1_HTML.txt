@@ -1,0 +1,35 @@
+<h1>This is a simple header</h1>
+<h1>This is a header with <em>italics</em> and <strong>bolds</strong></h1>
+<h2>This is a h2 header with <em>italics</em> and <strong>bolds</strong></h2>
+<p>This is a normal paragraph</p>
+<p>This is a paragraph
+that goes over
+multiple lines.</p>
+<ol>
+<li>This is a list</li>
+<li>With multiple items</li>
+<li>that can actually
+go over multiple lines</li>
+<li>but there is</li>
+</ol>
+<ul>
+<li>also a bullet point list</li>
+<li>which can also have items</li>
+<li>as you can see
+which can also
+go over multiple lines which is pretty fantastic</li>
+</ul>
+<h1>This is just a random header to demonstrate it breaks out of the list</h1>
+<blockquote>
+<p>Block quotes are pretty cool took</p>
+</blockquote>
+<hr />
+<p>That was a separator</p>
+<p>There is also <code>inline code</code> which is also very cool</p>
+<pre><code>This is a block *code* with few tricky
+# tests
+</code></pre>
+<p>The output of this <strong>acceptance test</strong> will be <em>compared</em> to the
+common mark dingus output. I hope this matches <strong>because <strong>if it does <strong>that
+means</strong> my <em>output</em> was</strong> all</strong> correct, I just did some nested bolds and italics
+to demonstrate that also works. Have a good day.</p>

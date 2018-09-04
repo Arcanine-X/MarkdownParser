@@ -1,0 +1,36 @@
+\section{This will be the last acceptance test}
+\subsection{Hopefully everything Ive shown to you}
+demonstrates how
+this parser works
+and that it can handle most things relatively well \par
+First we have headers \par
+\section{Header 1}
+\subsection{Header 2}
+These headers cant be tricked
+#Not a header
+##Not a header either \par
+\section{Headers can have \textit{italics \textbf{bolds} and} \lstinline{inline code}}
+Then we have lists \par
+\begin{enumerate}
+\item Which can have \textit{italics}
+\item and also \textbf{bolds}
+\item and also \lstinline{inline code}
+and can travel over multiple lines
+\end{enumerate}
+\section{And lists can never have a header it in which is good}
+\begin{itemize}
+\item Bulleted Lists work the same way as numbered lists
+\item They can have \textit{italics} \textbf{bolds} and \lstinline{inline code} too
+which can travel over multiple lines
+\end{itemize}
+\begin{lstlisting}
+And is broken by block quotes, headers, separators
+---
+Block qoutes cant have separators nor *italics* or **bolds** or `inline` code
+\end{lstlisting}
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{quote}
+Block quotes \par
+\end{quote}
+\textbf{I hope these this demonstrates what my program can do} \par

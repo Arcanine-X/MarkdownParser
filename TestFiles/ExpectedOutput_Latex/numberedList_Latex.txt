@@ -1,0 +1,27 @@
+\begin{enumerate}
+\item Item 1
+\item Item 2
+\end{enumerate}
+\section{header}
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{enumerate}
+\item Item 1
+\item Item 2
+\end{enumerate}
+\subsection{header}
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{enumerate}
+\item Item 1
+\item Item 2
+over two lines
+\end{enumerate}
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{enumerate}
+\item Item 1
+\item Item 2
+\end{enumerate}
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+\begin{enumerate}
+\item Item \textbf{1}
+\item Item \textit{2}
+\end{enumerate}

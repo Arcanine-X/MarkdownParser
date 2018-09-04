@@ -1,0 +1,22 @@
+\section{This is the fourth acceptance test}
+**I \textit{really} am running \textbf{out \textbf{of things
+to} test} \textit{because} I feel like I have tested it \par
+\subsection{Header doesnt become a paragraph which is good}
+Lets try test the same thing with other key words \par
+\begin{quote}
+A block quoote \par
+\end{quote}
+Now we can try \par
+\begin{lstlisting}
+Block code shouldnt become paragraph
+\end{lstlisting}
+And now some \par
+\begin{enumerate}
+\item List shouldnt become a paragraph either
+\end{enumerate}
+And lastly \par
+\begin{itemize}
+\item Bullet points shouldnt become paragraphs
+\end{itemize}
+This all works
+with my parser which I **am \textbf{glad} \par

@@ -1,0 +1,7 @@
+# A simple h1 header
+## A simple h2 header
+# A header with *italics*
+# A header with **bold**
+## A header with *italics* and **bold**
+# A header with a # hash
+#Not a header

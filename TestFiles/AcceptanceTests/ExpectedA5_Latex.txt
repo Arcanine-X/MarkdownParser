@@ -1,0 +1,31 @@
+\section{I will try to continue}
+\subsection{showing off what I have done}
+#This is not a header
+##Neither is this \par
+\begin{enumerate}
+\item This is a list with 2. numbers but the parser doesnt
+fall for this trick nor this * one
+\end{enumerate}
+\begin{itemize}
+\item This is a bulleted list * which doesn't fall for this trick either
+\end{itemize}
+\begin{enumerate}
+\item You can put \textit{italics} and \textbf{bold} in your lists
+\end{enumerate}
+\begin{quote}
+A block quote
+that goes over multiple lines
+and has \lstinline{inline} code \par
+\end{quote}
+Ill \textbf{try some \textit{nesting here \textit{to see \textit{how well} it performs} hopefully
+it} turns out alright} \par
+\begin{enumerate}
+\item Apples
+\item Bannanas
+\item Oranges
+\end{enumerate}
+\begin{itemize}
+\item Apples
+\item Bannans
+\item Oranges
+\end{itemize}

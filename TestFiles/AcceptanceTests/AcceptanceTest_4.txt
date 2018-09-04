@@ -1,0 +1,21 @@
+# This is the fourth acceptance test
+**I *really* am running **out **of things
+to** test** *because* I feel like I have tested it
+## Header doesnt become a paragraph which is good
+
+Lets try test the same thing with other key words
+> A block quoote
+
+Now we can try
+```
+Block code shouldnt become paragraph
+```
+
+And now some
+1. List shouldnt become a paragraph either
+
+And lastly
+* Bullet points shouldnt become paragraphs
+
+This all works
+with my parser which I **am **glad**

@@ -1,0 +1,36 @@
+\section{This is a simple header}
+\section{This is a header with \textit{italics} and \textbf{bolds}}
+\subsection{This is a h2 header with \textit{italics} and \textbf{bolds}}
+This is a normal paragraph \par
+This is a paragraph
+that goes over
+multiple lines. \par
+\begin{enumerate}
+\item This is a list
+\item With multiple items
+\item that can actually
+go over multiple lines
+\item but there is
+\end{enumerate}
+\begin{itemize}
+\item also a bullet point list
+\item which can also have items
+\item as you can see
+which can also
+go over multiple lines which is pretty fantastic
+\end{itemize}
+\section{This is just a random header to demonstrate it breaks out of the list}
+\begin{quote}
+Block quotes are pretty cool took \par
+\end{quote}
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+That was a separator \par
+There is also \lstinline{inline code} which is also very cool \par
+\begin{lstlisting}
+This is a block *code* with few tricky
+# tests
+\end{lstlisting}
+The output of this \textbf{acceptance test} will be \textit{compared} to the
+common mark dingus output. I hope this matches \textbf{because \textbf{if it does \textbf{that
+means} my \textit{output} was} all} correct, I just did some nested bolds and italics
+to demonstrate that also works. Have a good day. \par

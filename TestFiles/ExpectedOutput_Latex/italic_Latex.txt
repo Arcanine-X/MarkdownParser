@@ -1,0 +1,9 @@
+\textit{A simple italics} \par
+A \textit{multi
+line} italics \par
+Multiple \textit{italics} in one \textit{sentence} over
+\textit{a
+few lines} \par
+A *asterix that belongs \par
+A *asterix that \textit{belongs} again \par
+This is \textit{a sentence} with \textit{lots \textit{of \textit{asterix to} make lots} of} italics \par

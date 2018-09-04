@@ -1,0 +1,26 @@
+# I will try to continue
+## showing off what I have done
+
+#This is not a header
+##Neither is this
+
+1. This is a list with 2. numbers but the parser doesnt
+fall for this trick nor this * one
+
+* This is a bulleted list * which doesn't fall for this trick either
+
+1. You can put *italics* and **bold** in your lists
+
+> A block quote
+that goes over multiple lines
+and has `inline` code
+
+Ill **try some *nesting here *to see *how well* it performs* hopefully
+it* turns out alright**
+
+1. Apples
+2. Bannanas
+3. Oranges
+* Apples
+* Bannans
+* Oranges

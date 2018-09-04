@@ -1,0 +1,7 @@
+\begin{enumerate}
+\item Apples
+\item Bannanas
+and 4. oranges
+\item Passionfruit
+\end{enumerate}
+This is a paragraph \par

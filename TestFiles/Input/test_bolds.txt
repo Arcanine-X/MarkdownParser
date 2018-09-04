@@ -1,0 +1,17 @@
+**A simple bold**
+
+A **multi
+line** bold
+
+Multiple **bold** in one **sentence** over
+**a
+few lines**
+
+A **asterix that belongs
+
+A **asterix that **belongs** again
+
+This is **a sentence** with **lots **of **asterix to** make lots** of** italics
+
+
+ 

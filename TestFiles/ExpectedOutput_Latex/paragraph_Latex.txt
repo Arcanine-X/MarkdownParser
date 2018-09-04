@@ -1,0 +1,6 @@
+A simple paragraph \par
+A simple paragraph
+over multiple lines \par
+A simple paragraph \par
+\section{followed by a header}
+\subsection{and another header}

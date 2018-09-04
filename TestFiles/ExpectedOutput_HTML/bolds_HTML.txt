@@ -1,0 +1,9 @@
+<p><strong>A simple bold</strong></p>
+<p>A <strong>multi
+line</strong> bold</p>
+<p>Multiple <strong>bold</strong> in one <strong>sentence</strong> over
+<strong>a
+few lines</strong></p>
+<p>A **asterix that belongs</p>
+<p>A **asterix that <strong>belongs</strong> again</p>
+<p>This is <strong>a sentence</strong> with <strong>lots <strong>of <strong>asterix to</strong> make lots</strong> of</strong> italics</p>

@@ -1,0 +1,60 @@
+\textbf{This \textit{is} \textbf{another
+acceptance} \textit{test just} \textit{to} \textit{further
+\textit{demonstrate} my} program} \par
+\begin{enumerate}
+\item An item in a list
+\end{enumerate}
+\section{Breaks out of lists when it sees a header}
+\begin{enumerate}
+\item An item in a list
+\end{enumerate}
+\begin{quote}
+Breaks out of lists when it sees a block quote \par
+\end{quote}
+\begin{enumerate}
+\item An item in a list
+\end{enumerate}
+\begin{lstlisting}
+Breaks out of lists when it sees block code
+\end{lstlisting}
+\begin{enumerate}
+\item And you can have \textit{italics} and \textbf{bold} in lists and a matter of
+fact some \lstinline{inline code}
+\end{enumerate}
+This also all works with bullet point lists as you can see \par
+\begin{itemize}
+\item An item in a list
+\end{itemize}
+\section{See it breaks out of lists when it sees a header}
+\begin{itemize}
+\item An item in a list
+\end{itemize}
+\begin{quote}
+and also breaks out when it sees a block quote \par
+\end{quote}
+\begin{itemize}
+\item An item in a list
+\end{itemize}
+\begin{lstlisting}
+and also it breaks out when it sees block code
+\end{lstlisting}
+\begin{itemize}
+\item And you can have \textit{italics} and \textbf{bold} in lists and also
+some \lstinline{inline code}
+see it all works with bullet point lists too
+\end{itemize}
+\section{A header that has open *italics}
+with a paragraph that has closing* doesn't make everything italics which is cool \par
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+Just a random separator followed by some block code \par
+\begin{lstlisting}
+Block code
+over multiple lines
+*without astrixes* affecting
+**anything** and `inline code` doesn't effect the block
+code which is good
+\end{lstlisting}
+Just some \lstinline{inline code} \par
+\subsection{And we can finish with a empty block quote}
+\begin{quote}
+\end{quote}

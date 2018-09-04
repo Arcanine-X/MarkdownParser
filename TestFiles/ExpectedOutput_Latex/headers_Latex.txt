@@ -1,0 +1,7 @@
+\section{A simple h1 header}
+\subsection{A simple h2 header}
+\section{A header with \textit{italics}}
+\section{A header with \textbf{bold}}
+\subsection{A header with \textit{italics} and \textbf{bold}}
+\section{A header with a # hash}
+#Not a header \par

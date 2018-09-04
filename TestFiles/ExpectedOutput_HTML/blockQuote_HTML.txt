@@ -1,0 +1,14 @@
+<blockquote>
+<p>This is a block quote</p>
+</blockquote>
+<blockquote>
+<p>This is a block quote with <em>italics</em> and <strong>bold</strong></p>
+</blockquote>
+<blockquote>
+<h1>Header in a block quote</h1>
+</blockquote>
+<blockquote>
+<p><code>inline code</code> in a block quote</p>
+</blockquote>
+<blockquote>
+</blockquote>

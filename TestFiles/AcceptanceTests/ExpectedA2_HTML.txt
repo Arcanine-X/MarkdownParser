@@ -1,0 +1,57 @@
+<p><strong>This <em>is</em> <strong>another
+acceptance</strong> <em>test just</em> <em>to</em> <em>further
+<em>demonstrate</em> my</em> program</strong></p>
+<ol>
+<li>An item in a list</li>
+</ol>
+<h1>Breaks out of lists when it sees a header</h1>
+<ol>
+<li>An item in a list</li>
+</ol>
+<blockquote>
+<p>Breaks out of lists when it sees a block quote</p>
+</blockquote>
+<ol>
+<li>An item in a list</li>
+</ol>
+<pre><code>Breaks out of lists when it sees block code
+</code></pre>
+<ol>
+<li>And you can have <em>italics</em> and <strong>bold</strong> in lists and a matter of
+fact some <code>inline code</code></li>
+</ol>
+<p>This also all works with bullet point lists as you can see</p>
+<ul>
+<li>An item in a list</li>
+</ul>
+<h1>See it breaks out of lists when it sees a header</h1>
+<ul>
+<li>An item in a list</li>
+</ul>
+<blockquote>
+<p>and also breaks out when it sees a block quote</p>
+</blockquote>
+<ul>
+<li>An item in a list</li>
+</ul>
+<pre><code>and also it breaks out when it sees block code
+</code></pre>
+<ul>
+<li>And you can have <em>italics</em> and <strong>bold</strong> in lists and also
+some <code>inline code</code>
+see it all works with bullet point lists too</li>
+</ul>
+<h1>A header that has open *italics</h1>
+<p>with a paragraph that has closing* doesn't make everything italics which is cool</p>
+<hr />
+<p>Just a random separator followed by some block code</p>
+<pre><code>Block code
+over multiple lines
+*without astrixes* affecting
+**anything** and `inline code` doesn't effect the block
+code which is good
+</code></pre>
+<p>Just some <code>inline code</code></p>
+<h2>And we can finish with a empty block quote</h2>
+<blockquote>
+</blockquote>

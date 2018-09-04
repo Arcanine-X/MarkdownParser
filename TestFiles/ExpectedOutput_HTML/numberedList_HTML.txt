@@ -1,0 +1,27 @@
+<ol>
+<li>Item 1</li>
+<li>Item 2</li>
+</ol>
+<h1>header</h1>
+<hr />
+<ol>
+<li>Item 1</li>
+<li>Item 2</li>
+</ol>
+<h2>header</h2>
+<hr />
+<ol>
+<li>Item 1</li>
+<li>Item 2
+over two lines</li>
+</ol>
+<hr />
+<ol>
+<li>Item 1</li>
+<li>Item 2</li>
+</ol>
+<hr />
+<ol>
+<li>Item <strong>1</strong></li>
+<li>Item <em>2</em></li>
+</ol>

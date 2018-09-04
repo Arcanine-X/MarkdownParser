@@ -1,0 +1,14 @@
+\begin{quote}
+This is a block quote \par
+\end{quote}
+\begin{quote}
+This is a block quote with \textit{italics} and \textbf{bold} \par
+\end{quote}
+\begin{quote}
+\section{Header in a block quote}
+\end{quote}
+\begin{quote}
+\lstinline{inline code} in a block quote \par
+\end{quote}
+\begin{quote}
+\end{quote}

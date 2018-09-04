@@ -1,0 +1,13 @@
+```
+This is a block code test
+```
+
+```
+This is a block code 
+*test* with a **few**
+# tricks
+
+```
+This is a block code test
+with no ending 
+back ticks 

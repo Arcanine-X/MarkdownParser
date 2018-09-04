@@ -1,0 +1,2 @@
+\lstinline{Some simple inline code} \par
+A sentence \lstinline{with} multiple inline \lstinline{code} \par

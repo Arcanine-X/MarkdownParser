@@ -1,0 +1,35 @@
+<h1>This will be the last acceptance test</h1>
+<h2>Hopefully everything Ive shown to you</h2>
+<p>demonstrates how
+this parser works
+and that it can handle most things relatively well</p>
+<p>First we have headers</p>
+<h1>Header 1</h1>
+<h2>Header 2</h2>
+<p>These headers cant be tricked
+#Not a header
+##Not a header either</p>
+<h1>Headers can have <em>italics <strong>bolds</strong> and</em> <code>inline code</code></h1>
+<p>Then we have lists</p>
+<ol>
+<li>Which can have <em>italics</em></li>
+<li>and also <strong>bolds</strong></li>
+<li>and also <code>inline code</code>
+and can travel over multiple lines</li>
+</ol>
+<h1>And lists can never have a header it in which is good</h1>
+<ul>
+<li>Bulleted Lists work the same way as numbered lists</li>
+<li>They can have <em>italics</em> <strong>bolds</strong> and <code>inline code</code> too
+which can travel over multiple lines</li>
+</ul>
+<pre><code>And is broken by block quotes, headers, separators
+---
+Block qoutes cant have separators nor *italics* or **bolds** or `inline` code
+</code></pre>
+<hr />
+<hr />
+<blockquote>
+<p>Block quotes</p>
+</blockquote>
+<p><strong>I hope these this demonstrates what my program can do</strong></p>

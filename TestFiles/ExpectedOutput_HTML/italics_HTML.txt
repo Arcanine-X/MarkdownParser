@@ -1,0 +1,9 @@
+<p><em>A simple italics</em></p>
+<p>A <em>multi
+line</em> italics</p>
+<p>Multiple <em>italics</em> in one <em>sentence</em> over
+<em>a
+few lines</em></p>
+<p>A *asterix that belongs</p>
+<p>A *asterix that <em>belongs</em> again</p>
+<p>This is <em>a sentence</em> with <em>lots <em>of <em>asterix to</em> make lots</em> of</em> italics</p>

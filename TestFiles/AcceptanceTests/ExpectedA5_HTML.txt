@@ -1,0 +1,31 @@
+<h1>I will try to continue</h1>
+<h2>showing off what I have done</h2>
+<p>#This is not a header
+##Neither is this</p>
+<ol>
+<li>This is a list with 2. numbers but the parser doesnt
+fall for this trick nor this * one</li>
+</ol>
+<ul>
+<li>This is a bulleted list * which doesn't fall for this trick either</li>
+</ul>
+<ol>
+<li>You can put <em>italics</em> and <strong>bold</strong> in your lists</li>
+</ol>
+<blockquote>
+<p>A block quote
+that goes over multiple lines
+and has <code>inline</code> code</p>
+</blockquote>
+<p>Ill <strong>try some <em>nesting here <em>to see <em>how well</em> it performs</em> hopefully
+it</em> turns out alright</strong></p>
+<ol>
+<li>Apples</li>
+<li>Bannanas</li>
+<li>Oranges</li>
+</ol>
+<ul>
+<li>Apples</li>
+<li>Bannans</li>
+<li>Oranges</li>
+</ul>
